@@ -1,5 +1,6 @@
 ## Hi there 👋 this is Mengjie Lee
-SDE focused on Python, go, shell, etc.
+10+ years of SDE on full-stack, kubernetes and etc.
+Recently focused on exploring application on AIGC
 
 More is comming soon...
 
